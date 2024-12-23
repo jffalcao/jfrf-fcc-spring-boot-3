@@ -50,7 +50,16 @@ git clone https://github.com/jffalcao/jfrf-fcc-spring-boot-3.git
 
 ```
 
-- Getting Started with spring Boot: 
+### Uselful commands
+```Powershell
+# List java processes 
+jps
+
+# kill process general taskkill /PID <PID> /F
+# Example Kill process # 9124
+taskkill /PID 9124 /F
+```
+
 
 
 
