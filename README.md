@@ -1,8 +1,13 @@
 # jfrf-fcc-spring-boot-3
 FCC Spring Boot 3 Tutorial - from Dan Vega
 
+### Tools
 - Java 17
 - Spring Framework: https://spring.io/
+- httpie on Powershell
+
+
+### Tutorial Refrences
 - Youtube FCC-Spring-Boot-3: https://youtu.be/31KTdfRH6nY?si=gZ_Iv_NcKuuwrml0
     -  (0:19:25) Module 2: Create your project
 - Github: https://github.com/danvega/fcc-spring-boot-3
@@ -48,6 +53,12 @@ java --version
 # clone project
 git clone https://github.com/jffalcao/jfrf-fcc-spring-boot-3.git
 
+```
+
+- Install httpie
+```Powershell
+# Prerequisite Python
+pip install httpie
 ```
 
 ### Uselful commands
