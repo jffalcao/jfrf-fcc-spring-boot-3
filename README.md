@@ -9,7 +9,7 @@ FCC Spring Boot 3 Tutorial - from Dan Vega
 
 ### Tutorial Refrences
 - Youtube FCC-Spring-Boot-3: https://youtu.be/31KTdfRH6nY?si=gZ_Iv_NcKuuwrml0
-    -  (0:19:25) Module 2: Create your project
+    -  (1:40:00) Module 4: Working with Databases
 - Github: https://github.com/danvega/fcc-spring-boot-3
 - Spring Academy: https://spring.academy/
 - VS Code: https://code.visualstudio.com/docs/java/java-spring-boot
@@ -70,6 +70,12 @@ jps
 # Example Kill process # 9124
 taskkill /PID 9124 /F
 ```
+
+### Running the app
+
+- http://localhost:8080/api/runs/
+- http://localhost:8080/h2-console/
+
 
 
 
